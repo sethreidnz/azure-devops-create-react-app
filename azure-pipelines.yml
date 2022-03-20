@@ -7,8 +7,8 @@ pool:
 
 # define variables to use during the build
 variables:
-  projectFolder: "src"
-  buildOutputFolder: "src/build"
+  projectFolder: "my-app"
+  buildOutputFolder: "my-app/build"
 
 # define the steps of the build
 steps:
